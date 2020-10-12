@@ -21,7 +21,7 @@ First Header | ลิงค์วีดีโอ
 การวนรอบ - While Loop | https://www.youtube.com/watch?v=SDOaMhy42RA
 การวนรอบ - Do While Loop | https://www.youtube.com/watch?v=pB6ibWypdDY
 ตัวอย่าง - โจทย์ปรับพื้นฐานจากโจทย์ (ตั้งแต่ Flowchart ยันขียนโค๊ดโปรแกรม) | https://www.youtube.com/watch?v=lyzEe20rKG4
-ข้อความ (String) | https://www.youtube.com/watch?v=PTyQoGqi_NU
+ข้อความ (String) | https://www.youtube.com/watch?v=jEWPSXGDCdc
 ฟังก์ชัน (Function) | https://www.youtube.com/watch?v=Wd7nHpBTSy0
 โครงสร้าง (Struct) | https://www.youtube.com/watch?v=PTyQoGqi_NU
 การประยุกต์ใช้ Struct, Function และ String | https://www.youtube.com/watch?v=u5rshhQ1ZJQ
