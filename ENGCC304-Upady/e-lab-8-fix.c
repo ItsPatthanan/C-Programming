@@ -13,7 +13,7 @@ void main()
     while(strcmp(CustomerName,"QUIT") != 0){ //FIX : CHANGE 'Customername' to 'CustomerName' 
         i = 0;
         printf("Enter name, quantity, and price for item %d [END 0 0] : ", i+1);
-        scanf("%s %d %f", Name[i],  Quantity[i], &UnitPrice[i]); //FIX : CHANGE 'Scanf' to 'scanf'
+        scanf("%s %d %f", Name[i],  &Quantity[i], &UnitPrice[i]); //FIX : CHANGE 'Scanf' to 'scanf'   <<AND>> ADD & before Quantity
  
         while(strcmp(Name[i],"END") != 0){
             i++;
@@ -37,7 +37,7 @@ void main()
             printf("%-20s %11.2f %13d %17.2f\n", Name[i], Quantity[i] , UnitPrice[i], TotalPrice[i]);
  
         printf("--------------------------------------------------------------\n");
-        printf("%52s %11.2d\n", "TOTAL AMOUNT : ", TotalAmount);
+        printf("%52s %11.2f\n", "TOTAL AMOUNT : ", TotalAmount);//FIX : CHANGE %11.2d to %11.2f
         printf("Enter customer name [QUIT to stop] : ");
         scanf("%s",CustomerName);
     }
