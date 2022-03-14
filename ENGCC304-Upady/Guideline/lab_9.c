@@ -77,7 +77,7 @@ void main( void ) {
                 Matrix4[ i ][ j ] = 0 ;
                 
                 for( k = 0 ; k < cols1 ; k++ ) {
-                    Matrix4[ i ][ j ] += ____ ;
+                    Matrix4[ i ][ j ] += _____ ;
                 }//end for k
             }//end for j
         }//end for i
