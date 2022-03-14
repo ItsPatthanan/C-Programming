@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h> //FIX : ADD string.h
 #include <conio.h>
 
 int GetAllItems(char Name[][15],int Quantity[],float UnitPrice[])
@@ -44,7 +44,7 @@ void PrintProductDetail(char Name[][15], int Quantity[]  , float UnitPrice[], fl
 	printf("-----------------------------------------------------------------\n");
 }
 
-int main()
+void main() //FIX : CHANGE 'int main' to 'void main'
 {	
 	char CustomerName[15], Name[10][15];
 	int Quantity[10], NumberOfItems;
