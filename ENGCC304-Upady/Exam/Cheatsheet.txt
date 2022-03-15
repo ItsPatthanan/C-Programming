@@ -1,3 +1,15 @@
+Lab8
+    Line 2  ADD string.h here.
+    Line 11 ADD ; lastline.
+    Line 13 CHANGE 'Customername' to 'CustomerName' 
+    Line 16 CHANGE 'Scanf' to 'scanf' and ADD & before Quantity
+    Line 22 ADD } lastline.
+    Line 25 ADD ; lastline.
+    Line 32 CHANGE 'Printf' to 'printf'
+    Line 33 ADD Double Quote before Name variable.
+    Line 36 DELETE ; before )
+    Line 40 CHANGE %11.2d to %11.2f
+
 Lab9
     Line 9  CHANGE 'Printf' to 'printf'
     Line 15 ADD & before Matrix1.
@@ -11,16 +23,16 @@ Lab9
     Line 66 DELETE ; last line. 
 
 Lab10
-    Line 2  ADD string.h
-    Line 14 CHANGE '%s %d %d' to '%s %d %f'
-    Line 24 ADD { lastline
-    Line 36 ADD '[]' after Quantity
-    Line 39 ADD double quote before 'Quantity'.
-    Line 42 DELETE ;
-    Line 43 CHANGE 'totalPrice' to 'TotalPrice'
-    Line 52 ADD ; lastline.
-    Line 59 CHANGE 'PrintProductdetail' to 'PrintProductDetail'
-    Line 64 CHANGE 'Printf' to 'printf'
+    Line 2      ADD string.h
+    Line 14     CHANGE '%s %d %d' to '%s %d %f'
+    Line 24/25  ADD { lastline
+    Line 36     ADD '[]' after Quantity
+    Line 39     ADD double quote before 'Quantity'.
+    Line 42     DELETE ;
+    Line 43     CHANGE 'totalPrice' to 'TotalPrice'
+    Line 52     ADD ; lastline.
+    Line 59     CHANGE 'PrintProductdetail' to 'PrintProductDetail'
+    Line 64     CHANGE 'Printf' to 'printf'
 
 Lab11
     Line 1  CHANGE conio.h to stdio.h

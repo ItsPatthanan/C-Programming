@@ -8,7 +8,7 @@ void main()
     float UnitPrice[10],TotalPrice[10],TotalAmount;
 
     printf("Enter customer name [QUIT to stop] : ");
-    scanf("%s",CustomerName) ; //FIX : ADD ;
+    scanf("%s",CustomerName) ; //FIX : ADD ; lastline.
  
     while(strcmp(CustomerName,"QUIT") != 0){ //FIX : CHANGE 'Customername' to 'CustomerName' 
         i = 0;
