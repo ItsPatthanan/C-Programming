@@ -1,0 +1,36 @@
+Lab9
+    Line 9  CHANGE 'Printf' to 'printf'
+    Line 15 ADD & before Matrix1.
+    Line 20 ADD ; lastline.
+    Line 30 CHANGE 'matrix1' to 'Matrix1'
+    Line 37 ADD ; lastline.
+    Line 39 ADD } lastline.
+    Line 49 CHANGE %s to %d
+    Line 57 CHANGE 'Cols2' to 'cols2'
+    Line 62 CHANGE 'matrix2' to 'Matrix2'
+    Line 66 DELETE ; last line. 
+
+Lab10
+    Line 2  ADD string.h
+    Line 14 CHANGE '%s %d %d' to '%s %d %f'
+    Line 24 ADD { lastline
+    Line 36 ADD '[]' after Quantity
+    Line 39 ADD double quote before 'Quantity'.
+    Line 42 DELETE ;
+    Line 47 CHANGE 'int main' to 'void main'
+    Line 52 ADD ; lastline.
+    Line 59 CHANGE 'PrintProductdetail' to 'PrintProductDetail'
+    Line 64 CHANGE 'Printf' to 'printf'
+
+Lab11
+    Line 1  CHANGE conio.h to stdio.h
+    Line 2  CHANGE 'Rows' to 'rows'
+    Line 9  CHANGE '%s' to '%d'
+    Line 22 ADD } here.
+    Line 25 CHANGE 'M1 [5]' to 'M1[][5]'
+    Line 35 ADD ; lastline.
+    Line 47 DELETE ; lastline.
+    Line 60 ADD '&' before r2
+    Line 63 CHANGE 'printMatrix' to 'PrintMatrix'
+    Line 69 ADD ; lastline .
+

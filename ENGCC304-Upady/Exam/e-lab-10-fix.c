@@ -21,7 +21,7 @@ float CalculateTotalPrices(int Quantity[], float UnitPrice[], float TotalPrice[]
 	int i;
 	float TotalAmount = 0.0;
 
-	for(i=0;i<NumberOfItems;i++) { //FIX : ADD { here
+	for(i=0;i<NumberOfItems;i++) { //FIX : ADD { lastline
 	
 	    TotalPrice[i] = Quantity[i]*UnitPrice[i];
 	    TotalAmount += TotalPrice[i];
