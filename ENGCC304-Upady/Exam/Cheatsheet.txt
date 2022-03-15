@@ -17,7 +17,7 @@ Lab10
     Line 36 ADD '[]' after Quantity
     Line 39 ADD double quote before 'Quantity'.
     Line 42 DELETE ;
-    Line 47 CHANGE 'int main' to 'void main'
+    Line 43 CHANGE 'totalPrice' to 'TotalPrice'
     Line 52 ADD ; lastline.
     Line 59 CHANGE 'PrintProductdetail' to 'PrintProductDetail'
     Line 64 CHANGE 'Printf' to 'printf'
