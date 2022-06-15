@@ -1,5 +1,10 @@
 # ENGCC304
 
+## เอกสารหลัก
+* รายละเอียดประจำวิชา https://drive.google.com/file/d/1vzHwbEAhXpLGtR8nvfFQ30iwNH_4L2Nc/view?usp=sharing
+* Slide ประกอบคำสอน https://drive.google.com/drive/folders/1LebogV8h2oICd1HE1sQB9idSz6QfCAm2?usp=sharing
+* Lab https://drive.google.com/file/d/1GwEMA27ySJBxYEt_AAYulCDLtGFZNVpQ/view?usp=sharing
+
 ## เอกสารที่เกี่ยวข้อง
 * เอกสารเสริม https://docs.google.com/document/d/1zilDjw4C6gecSZyZFDpsnLoYI3tDckMJ6imcvVA5Nyw/edit?usp=sharing
 * แบบฝึกหัดเพิ่มเติม https://docs.google.com/document/d/10a_C_EKk6pHESBe6rOcfFBxCn6qHci7n4hfoaSO79EI/edit?usp=sharing
